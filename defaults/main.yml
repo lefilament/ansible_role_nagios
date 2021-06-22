@@ -1,0 +1,5 @@
+---
+nagios_url: "nagios.example.org"
+
+## E-mail used to generate Let's Encrypt SSL certificate
+default_maintenance_email: "maintenance@example.org"
